@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **Shamsudeen**
 #### I am a Data Scientist/Analytics Engineer
-![I am a Data Scientist/Analytics Engineer](https://github.com/Shamoo100/Shamoo_Lytics/blob/0224aa93b7be9b5451bec1089ed206358a6b1538/Blue%20and%20Pink%20Gradient%20Profile%20Info%20Instagram%20Post.png)
+![I am a Data Scientist/Analytics Engineer](!DS Profile Card.jpg)
 
 I have 2 years of experience in data analytics and now I am focusing on analytics engineering as my niche, where I help the brand with valuable insights using the customer data, so they can make informed decisions
 
