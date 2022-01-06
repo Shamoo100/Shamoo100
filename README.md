@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm **Shamsudeen**
+#### I am a Data Scientist/Analytics Engineer
+![I am a Data Scientist/Analytics Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Shamoo100/Shamoo100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 2 years of experience in data analytics and now I am focusing on analytics engineering as my niche, where I help the brand with valuable insights using the customer data, so they can make informed decisions
 
-Here are some ideas to get you started:
+Skills: Data Analysis / Data Modelling / Visualization / Machine Learning / Cloud Computing/ Python/ R/ PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Database modeling and data warehousing 
+- 🌱 I’m currently learning Advanced SQL, Analytics engineering 
+- 👯 I’m looking to collaborate on data warehouse design projects 
+- 🤔 I’m looking for help with analytics engineering 
+- 📫 How to reach me: suleimanbash100@gmail.com 
+- ⚡ Fun fact: :) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shamoo100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/suleiman-bashir-shamsudeen-9061755b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/@shamoo100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@shamoo_100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@royaldeen)  
+
