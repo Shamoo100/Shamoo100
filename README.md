@@ -2,14 +2,14 @@
 # I am a Data Scientist/Analytics Engineer
 ![I am a Data Scientist/Analytics Engineer](https://github.com/Shamoo100/Shamoo_Lytics/blob/78eee5b1e3cb250a2fff4ad0553d9f38a6da951e/DS%20Profile%20Card.jpg)
 
-I have 2 years of experience in data analytics and now I am focusing on analytics engineering as my niche, where I help build analytics systems to analyze data, learn from that analysis, and use that knowledge and insight to optimize business operations
+I have 2 years of experience in data analytics and now I am focusing on analytics engineering as my niche, where I help build analytics systems to extract,transform and load data for analytics, learn from that analysis, and use that knowledge and insight to optimize business operations
 
 ### **Skills** 👨🏾‍💻 Data Analysis / Data Modelling / Data Visualization / Machine Learning / Cloud Computing / Python / R / PowerBI
 
 - 🔭 I’m currently working on Database modeling and data warehousing 
 - 🌱 I’m currently learning Advanced SQL, Analytics engineering 
 - 👯 I’m looking to collaborate on data warehouse design projects 
-- 🤔 I’m looking for help with analytics engineering 
+- 🤔 I’m looking for help with analytics engineering (Airflow,DBT, Spark and Hadoop)
 - 📫 How to reach me: suleimanbash100@gmail.com 
 - ⚡ Fun fact: :) 
 
