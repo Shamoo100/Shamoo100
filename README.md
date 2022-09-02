@@ -4,7 +4,17 @@
 
 I have 2 years of experience in data analytics and now I am focusing on analytics engineering as my niche, where I help build analytics systems to extract,transform and load data for analytics, learn from that analysis, and use that knowledge and insight to optimize business operations
 
-### **Skills** 👨🏾‍💻 Data Analysis / Data Modelling / Data Visualization / Machine Learning / Cloud Computing / Python / R / PowerBI
+### **Skills** 👨🏾‍💻 
+⊛ Data Analysis
+⊛ Data Modelling 
+⊛ Data Engineering
+⊛ Data Visualization
+⊛ Machine Learning 
+⊛ Cloud Computing
+
+⊛ SQL/Python/R/PowerBI
+
+💡 What I'm up to
 
 - 🔭 I’m currently working on Database modeling and data warehousing 
 - 🌱 I’m currently learning Advanced SQL, Analytics engineering 
@@ -14,7 +24,13 @@ I have 2 years of experience in data analytics and now I am focusing on analytic
 - ⚡ Fun fact: :) 
 
 ### **Social Links** 🔗
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/github.svg' alt='github' height='30'>](https://github.com/Shamoo100) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/suleiman-bashir-shamsudeen-9061755b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/@shamoo100) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/@shamoo_100/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@royaldeen)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/github.svg' alt='github' height='30'>](https://github.com/Shamoo100) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/suleiman-bashir-shamsudeen-9061755b//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/@shamoo100) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/@shamoo_100/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@royaldeen)  
+
+### **GitHub Badges** 🔰
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> 
 
