@@ -14,7 +14,7 @@ I have 2 years of experience in data analytics and now I am focusing on analytic
 
 ⊛ SQL/Python/R/PowerBI
 
-💡 What I'm up to
+💡 **What I'm up to**
 
 - 🔭 I’m currently working on Database modeling and data warehousing 
 - 🌱 I’m currently learning Advanced SQL, Analytics engineering 
