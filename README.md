@@ -2,7 +2,7 @@
 # I am a Data Scientist/Analytics Engineer
 ![I am a Data Scientist/Analytics Engineer](https://github.com/Shamoo100/Shamoo_Lytics/blob/78eee5b1e3cb250a2fff4ad0553d9f38a6da951e/DS%20Profile%20Card.jpg)
 
-I have 2 years of experience in data analytics and now I am focusing on analytics engineering as my niche, where I help build analytics systems to extract,transform and load data for analytics, learn from that analysis, and use that knowledge and insight to optimize business operations
+I have 3 years of experience in data analytics and am now focusing on analytics engineering as my niche. I specialize in building data analytics systems to extract, transform, and load data for analysis. My goal is to leverage insights gained from data analysis to optimize business operations and drive informed decision-making.
 
 ### **Skills** 👨🏾‍💻 
 ⊛ Data Analysis
