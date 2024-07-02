@@ -12,11 +12,24 @@ I have 3 years of experience in data analytics and am now focusing on analytics 
 ⊛ Machine Learning 
 ⊛ Cloud Computing
 
-⊛ SQL/Python/R/PowerBI
+### **Technologies** :rocket:
+⊛ SQL
+⊛ Python
+⊛ R
+⊛ Power BI
+⊛ Tableau
+⊛ Apache Airflow
+⊛ Spark
+⊛ Hadoop
+⊛ AWS
+⊛ Google Cloud Platform (GCP)
+⊛ Azure
+⊛ NoSQL
+
 
 💡 **What I'm up to**
 
-- 🔭 I’m currently working on Database modeling and data warehousing 
+- 🔭 I’m currently working on Database modelling and data warehousing 
 - 🌱 I’m currently learning Advanced SQL, Analytics engineering 
 - 👯 I’m looking to collaborate on data warehouse design projects 
 - 🤔 I’m looking for help with analytics engineering (Airflow,DBT, Spark and Hadoop)
