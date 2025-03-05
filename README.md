@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Shamsudeen!
-# I am a Data Scientist → Analytics Engineer → AI Engineer (Agentic AI)
+# I am a Data Scientist → Analytics Engineer → AI Engineer
 ![I am a Data Scientist/Analytics Engineer](https://github.com/Shamoo100/Shamoo_Lytics/blob/78eee5b1e3cb250a2fff4ad0553d9f38a6da951e/DS%20Profile%20Card.jpg)
 
 With over 5 years of experience in data analytics, I now specialize in AI engineering, focusing on Agentic AI. I design and build intelligent AI systems that extract, transform, and process data for autonomous decision-making. My goal is to leverage AI-driven insights to optimize business operations and drive innovation.
