@@ -12,6 +12,9 @@ I have 3 years of experience in data analytics and am now focusing on analytics 
 ⊛ Machine Learning 
 ⊛ Cloud Computing
 
+⊛ Generative AI 
+⊛ Backend Engineering
+
 ### **Technologies** :rocket:
 ⊛ SQL
 ⊛ Python
@@ -26,11 +29,14 @@ I have 3 years of experience in data analytics and am now focusing on analytics 
 ⊛ Azure
 ⊛ NoSQL
 
+⊛ LLM's(OpenAI,Anthropic, e.tc) 
+⊛ Langchain, Langsmith,Langflow 
+
 
 💡 **What I'm up to**
 
-- 🔭 I’m currently working on Database modelling and data warehousing 
-- 🌱 I’m currently learning Advanced SQL, Analytics engineering 
+- 🔭 I’m currently working on Database modelling,data warehousing and Agentic AI
+- 🌱 I’m currently learning Advanced SQL, Analytics engineering,Langchain and Generative AI tools.
 - 👯 I’m looking to collaborate on data warehouse design projects 
 - 🤔 I’m looking for help with analytics engineering (Airflow,DBT, Spark and Hadoop)
 - 📫 How to reach me: suleimanbash100@gmail.com 
@@ -49,3 +55,4 @@ I have 3 years of experience in data analytics and am now focusing on analytics 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamoo100)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/Shamoo100/github-readme-stats"><img alt="Shamoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shamoo100&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
