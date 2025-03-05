@@ -1,8 +1,8 @@
-### Hi there 👋, I'm **Shamsudeen**
-# I am a Data Scientist/Analytics Engineer
+# Hi there 👋, I'm Shamsudeen!
+# I am a Data Scientist → Analytics Engineer → AI Engineer (Agentic AI)
 ![I am a Data Scientist/Analytics Engineer](https://github.com/Shamoo100/Shamoo_Lytics/blob/78eee5b1e3cb250a2fff4ad0553d9f38a6da951e/DS%20Profile%20Card.jpg)
 
-I have 3 years of experience in data analytics and am now focusing on analytics engineering as my niche. I specialize in building data analytics systems to extract, transform, and load data for analysis. My goal is to leverage insights gained from data analysis to optimize business operations and drive informed decision-making.
+With over 5 years of experience in data analytics, I now specialize in AI engineering, focusing on Agentic AI. I design and build intelligent AI systems that extract, transform, and process data for autonomous decision-making. My goal is to leverage AI-driven insights to optimize business operations and drive innovation.
 
 ### **Skills** 👨🏾‍💻 
 ⊛ Data Analysis
@@ -54,5 +54,7 @@ I have 3 years of experience in data analytics and am now focusing on analytics 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamoo100)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Shamoo100/github-readme-stats"><img alt="Shamoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shamoo100&show_icons=true&count_private=true&theme=algolia" height="205px"/></a>
 
-<a href="https://github.com/Shamoo100/github-readme-stats"><img alt="Shamoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shamoo100&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
